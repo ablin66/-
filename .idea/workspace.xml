@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5cbb6d8-cd9c-4d21-bc07-51f73217a0ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e5cbb6d8-cd9c-4d21-bc07-51f73217a0ff" name="Default Changelist" comment="проветка title и закрытие браузера">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/deliveryClub/FirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/deliveryClub/FirstTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,17 +66,21 @@
   </component>
   <component name="RunManager" selected="JUnit.FirstTest.firstTest">
     <configuration name="FirstTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="git" />
+      <module name="deliveryClab" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.deliveryClub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_241\jre" />
       <option name="PACKAGE_NAME" value="ru.deliveryClub" />
       <option name="MAIN_CLASS_NAME" value="ru.deliveryClub.FirstTest" />
       <option name="METHOD_NAME" value="firstTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,13 +165,18 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="проветка title и закрытие браузера" />
+    <option name="LAST_COMMIT_MESSAGE" value="проветка title и закрытие браузера" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="563" y="139" key="#FirstTest" timestamp="1590402235515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="563" y="123" key="#FirstTest.firstTest" timestamp="1590402434465">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="401" y="0" key="#FirstTest.firstTest" timestamp="1590406848708">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="401" y="0" key="#FirstTest.firstTest/0.0.1366.728@0.0.1366.728" timestamp="1590406848708" />
     <state x="563" y="123" key="#FirstTest.firstTest/0.0.1920.1040@0.0.1920.1040" timestamp="1590402434465" />
     <state x="563" y="139" key="#FirstTest/0.0.1920.1040@0.0.1920.1040" timestamp="1590402235515" />
     <state x="586" y="198" key="#Inspections" timestamp="1590403028106">
@@ -187,26 +191,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="563" y="102" key="#ru.deliveryClub_in_Bell/0.0.1920.1040@0.0.1920.1040" timestamp="1590402275556" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590403260543">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1286" height="207" key="GridCell.Tab.0.bottom" timestamp="1590427063914">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590389711740" />
+    <state width="1286" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590427063914" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590403260543" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590403260542">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1286" height="207" key="GridCell.Tab.0.center" timestamp="1590427063914">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590389711740" />
+    <state width="1286" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590427063914" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590403260542" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590403260542">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1286" height="207" key="GridCell.Tab.0.left" timestamp="1590427063914">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590389711740" />
+    <state width="1286" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590427063914" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590403260542" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590403260543">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1286" height="207" key="GridCell.Tab.0.right" timestamp="1590427063914">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590389711740" />
+    <state width="1286" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590427063914" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590403260543" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1590411266247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590411266247" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590392496820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
